@@ -4,7 +4,8 @@
   "private": true,
   "scripts": {},
   "dependencies": {
-    "commitizen": "^4.2.3"
+    "commitizen": "^4.2.3",
+    "lodash": "^4.17.20"
   },
   "eslintConfig": {},
   "devDependencies": {
